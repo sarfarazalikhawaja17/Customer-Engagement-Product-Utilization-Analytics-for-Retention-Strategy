@@ -1,0 +1,7 @@
+streamlit>=1.35
+pandas
+numpy
+scipy
+plotly>=5.18
+scikit-learn==1.8.0   # <- set this to the version you trained with: python -c "import sklearn; print(sklearn.__version__)"
+joblib
